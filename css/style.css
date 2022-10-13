@@ -1,0 +1,12 @@
+.circle-map {
+    position: absolute;
+    height: 2rem;
+    width: 2rem;
+    top: 614px;
+    right: 466px;
+    border: thick double red;
+    border-radius: 50%;
+}
+.circle-map:hover {
+   transform: scale(2);
+}
